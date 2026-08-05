@@ -32,16 +32,14 @@ The framework combines large-scale social media analytics, Natural Language Proc
            Multi-Source Brand Evaluation Framework
            
 
- ┌────────────────────────────────────────────────────────────┐
- │                                                            │
- │                Real-World Brand Strength                   │
- │                                                            │
- │  ┌────────────┐     ┌────────────┐     ┌──────────────┐    │
- │  │   Brand    │     │  Product   │     │   Marketing  │    │
- │  │  Strength  │     │  Strength  │     │   Strength   │    │
- │  └────────────┘     └────────────┘     └──────────────┘    │
- │                                                            │
- └────────────────────────────────────────────────────────────┘
+
+                                                   
+                  Real-World Brand Strength      
+
+
+         Brand             Product            Marketing  
+        Strength          Strength            Strength   
+
  
                              │
                              │
