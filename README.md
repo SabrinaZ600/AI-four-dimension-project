@@ -6,7 +6,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-red)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-Regression-green)
 ![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-yellow)
-![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
 ## Project Overview
@@ -307,11 +306,12 @@ AI_Brand_Project/
 ├── README.md
 │
 ├── notebooks/
-│   ├── 01_Data_Preparation.ipynb
-│   ├── 02_Product_Strength.ipynb
+│   ├── 01_Brand_Trust_Pipeline.ipynb
+│   ├── 02_Product_Strength_Pipeline.ipynb
 │   ├── 03_LLM_Response_Collection.ipynb
-│   ├── 04_AI_Visibility_Scoring.ipynb
-│   └── 05_Statistical_Analysis.ipynb
+│   ├── 04_AI_Response_Parsing.ipynb
+│   ├── 05_AI_Visibility_Analysis.ipynb
+│   └── 06_AIVisibility_Results.ipynb
 │
 ├── data/
 │   ├── brand_metrics.csv
@@ -319,11 +319,14 @@ AI_Brand_Project/
 │   └── AI_Visibility_Score.csv
 │
 ├── figures/
-│   ├── pipeline.png
-│   ├── correlation_heatmap.png
-│   ├── logistic_coefficients.png
-│   ├── blindspot_scatter.png
-│   └── prompt_heatmap.png
+│   ├── Figure1_ProductStrengthRadar.png
+│   ├── Figure2_MarketingStrength.png
+│   ├── Figure3_AIVisibility.png
+│   ├── Figure4_CorrelationHeatmap.png
+│   ├── Figure5_BrandStrength_vs_AIVisibility.png   
+│   ├── Figure6_AIBlindSpot.png
+│   ├── Figure7_LogisticForestPlot.png
+│   └── Figure8_RecommendationHeatmap.png
 │
 ├── output/
 │   ├── brand_rankings.csv
