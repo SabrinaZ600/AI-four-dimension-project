@@ -22,11 +22,58 @@ The framework combines large-scale social media analytics, Natural Language Proc
 ---
 ## Research Framework
 
-<p align="center">
-<img src="figures/research_framework.png" width="800">
-</p>
+                    Research Question
+
+     Why Do Strong Brands Fail to Be Recommended by AI?
+
+                             │
+                             ▼
+
+           Multi-Source Brand Evaluation Framework
+
+ ┌────────────────────────────────────────────────────────────┐
+ │                                                            │
+ │                Real-World Brand Strength                   │
+ │                                                            │
+ │  ┌────────────┐     ┌────────────┐     ┌──────────────┐    │
+ │  │   Brand    │     │  Product   │     │   Marketing  │    │
+ │  │  Strength  │     │  Strength  │     │   Strength   │    │
+ │  └────────────┘     └────────────┘     └──────────────┘    │
+ │                                                            │
+ └────────────────────────────────────────────────────────────┘
+                             │
+                             │
+                             ▼
+
+               Large Language Model Evaluation
+
+                             │
+
+             14 Standardized Recommendation Prompts
+
+                             │
+
+                             ▼
+
+                  AI Visibility Measurement
+
+                        Mention Rate
+                        Average Rank
+                        Top-1 Rate
+                        Top-3 Rate
+
+                             │
+
+                             ▼
+
+                 AI Blind Spot Identification
+
+                     AI Over-recommended
+                     AI Under-recommended
+                     AI Aligned
 
 The proposed framework evaluates brands from four complementary perspectives before comparing them with AI recommendation performance.
+
 ---
 
 # Methodology
@@ -44,6 +91,7 @@ Three indicators were constructed:
 | Brand Trust | Trust Score (LLM-based evaluation) |
 
 Brand trust was extracted using the **Qwen2.5-0.5B-Instruct** model through structured prompt engineering.
+
 ---
 
 ## Stage 2 — Product Strength
