@@ -249,6 +249,8 @@ Major findings include:
 <p align="center">
 <img src="figures/correlation_heatmap.png" width="650">
 </p>
+<img width="1204" height="902" alt="image" src="https://github.com/user-attachments/assets/5a3e165d-b889-4185-8b3d-c64334331944" />
+
 
 ---
 
