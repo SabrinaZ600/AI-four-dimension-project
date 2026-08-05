@@ -30,6 +30,7 @@ The framework combines large-scale social media analytics, Natural Language Proc
                              ▼
 
            Multi-Source Brand Evaluation Framework
+           
 
  ┌────────────────────────────────────────────────────────────┐
  │                                                            │
@@ -41,6 +42,7 @@ The framework combines large-scale social media analytics, Natural Language Proc
  │  └────────────┘     └────────────┘     └──────────────┘    │
  │                                                            │
  └────────────────────────────────────────────────────────────┘
+ 
                              │
                              │
                              ▼
