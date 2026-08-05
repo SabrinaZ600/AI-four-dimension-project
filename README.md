@@ -23,9 +23,16 @@ The framework combines large-scale social media analytics, Natural Language Proc
 
 ---
 
-## Research Question
+## 🎯 Research Questions
 
-> Why are some strong brands frequently ignored by AI recommendation systems while weaker brands receive greater AI exposure?
+This project investigates five research questions:
+
+1. Does stronger brand strength increase AI recommendation visibility?
+2. Does product quality influence AI recommendation likelihood?
+3. Does digital marketing strength affect AI recommendation performance?
+4. Which brand characteristics best predict AI recommendations?
+5. Which brands are over- or under-recommended by AI compared with their real-world market strength?
+
 ---
 ## Research Framework
 
