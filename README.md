@@ -1,6 +1,13 @@
-# AI Visibility vs. Brand Strength
-## Why Do Strong Brands Fail to Be Recommended by AI?
-### A Multi-Source Framework Integrating Social Media Analytics and Large Language Models
+# 🤖 Why Do Strong Brands Fail to Be Recommended by AI?
+### A Multi-Source Analysis of Brand Strength and AI Visibility
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-red)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-Regression-green)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-yellow)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
+
 ---
 ## Project Overview
 Large Language Models (LLMs) are rapidly becoming an important source of product recommendations. However, brands with strong market performance are not always recommended by AI systems.
