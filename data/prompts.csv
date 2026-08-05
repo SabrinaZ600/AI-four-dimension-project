@@ -1,0 +1,15 @@
+Prompt_ID,Prompt_Type,Category,Prompt
+1,Open,General,What are the best wireless over-ear noise-cancelling headphones currently available?
+2,Open,General,Which wireless headphones would you recommend for most people?
+3,Open,General,What are the top five wireless headphones on the market today?
+4,Open,Value,Which wireless headphones offer the best value for money?
+5,Open,ANC,Which wireless headphones have the best active noise cancellation?
+6,Open,Sound,Which wireless headphones provide the best sound quality?
+7,Open,Comfort,Which wireless headphones are the most comfortable for long listening sessions?
+8,Open,Battery,Which wireless headphones have the longest battery life?
+9,Compare,Overall,"Among Sony, Bose, Sennheiser, SoundCore, JBL, Nothing, and Edifier, rank all seven brands based on overall wireless headphone performance and explain your reasoning."
+10,Compare,ANC,"Rank Sony, Bose, Sennheiser, SoundCore, JBL, Nothing, and Edifier based on active noise cancellation performance."
+11,Compare,Sound,"Rank Sony, Bose, Sennheiser, SoundCore, JBL, Nothing, and Edifier based on sound quality."
+12,Compare,Comfort,"Rank Sony, Bose, Sennheiser, SoundCore, JBL, Nothing, and Edifier based on long-term wearing comfort."
+13,Compare,Value,"Rank Sony, Bose, Sennheiser, SoundCore, JBL, Nothing, and Edifier based on value for money."
+14,Compare,Recommendation,"If you could recommend only one brand among Sony, Bose, Sennheiser, SoundCore, JBL, Nothing, and Edifier, which would you choose and why?"
