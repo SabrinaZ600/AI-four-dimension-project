@@ -246,9 +246,6 @@ Major findings include:
 
 ### Correlation Analysis
 
-<p align="center">
-<img src="figures/correlation_heatmap.png" width="650">
-</p>
 <img width="1204" height="902" alt="image" src="https://github.com/user-attachments/assets/5a3e165d-b889-4185-8b3d-c64334331944" />
 
 
@@ -256,25 +253,23 @@ Major findings include:
 
 ### AI Blind Spot
 
-<p align="center">
-<img src="figures/AI_blindspot.png" width="650">
-</p>
+<img width="1334" height="988" alt="image" src="https://github.com/user-attachments/assets/e0ba1af7-5772-4517-8b55-42aa650e7eee" />
+
+
 
 ---
 
 ### Logistic Regression
 
-<p align="center">
-<img src="figures/regression_coefficients.png" width="650">
-</p>
+<img width="1378" height="820" alt="image" src="https://github.com/user-attachments/assets/68f2745d-0175-4f8d-8e18-817356751179" />
+
 
 ---
 
 ### Prompt-Level Recommendation Heatmap
 
-<p align="center">
-<img src="figures/recommendation_heatmap.png" width="700">
-</p>
+<img width="1434" height="1170" alt="image" src="https://github.com/user-attachments/assets/1287de07-6c32-4ef3-acc0-d307549a363c" />
+
 
 ---
 
